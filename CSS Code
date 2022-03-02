@@ -1,0 +1,50 @@
+hr {
+  border: none;
+  border-top: 7px dashed;
+  color: Magenta;
+  background-color: White;
+  height: 0px;
+  width: 55%;
+  padding: 5px;
+}
+
+.shr {
+  color: cyan;
+  border-top: 4.5px dotted;
+}
+
+table {
+  width: 50%;
+  vertical-align: baseline;
+  border-spacing: 10px;
+  padding: 0;
+  spacing: 0;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.columnsf {
+  background-color: violet;
+}
+
+.columnss {
+  background-color: pink;
+}
+
+.columnst {
+  background-color: lightblue;
+}
+
+th {
+  background color: black;
+}
+
+th,td {
+  width: 150px;
+  text-align: center;
+  border: 1.5px solid black;
+  padding: 30px;
+}
