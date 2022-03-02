@@ -1,0 +1,39 @@
+<!--HTML-->
+<html>
+  <head>
+    <body>
+      <div>
+  <hr class="top" "width:55%", "height:2px"/>
+  <table class="center">
+    <tr>
+      <th class="columnsf">FIRST NAME</th>
+      <th class="columnss">LAST NAME</th>
+      <th class="columnst">AGE</th>
+    </tr>
+    <tr>
+      <td>Josie</td>
+      <td>Moses</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Korrice</td>
+      <td>Moses</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Keyon</td>
+      <td>Moses</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Jonny</td>
+      <td>Moses</td>
+      <td>9</td>
+    </div>
+    </tr>
+    </table>
+    </body>
+    <hr class="shr" style="width:100">
+    </html>
+  
+    
